@@ -1,5 +1,6 @@
 # float6
-ejercicio float columna 3
+ejercicio 3 float 3 columnas 
+```html
 
 <!DOCTYPE HTML>
 <html>
@@ -94,3 +95,4 @@ I am related content.
 <footer>Copyright stuff....</footer>
 </body>
 </html>
+```
